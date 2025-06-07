@@ -22,7 +22,7 @@ This project provides an application for analyzing the sentiment of text, specif
 
     ```bash
     git clone https://github.com/log1-codes/Twitter-Sentiment-Analyzer.git
-    cd twitter-sentiment-analyzer
+    cd Twitter-Sentiment-Analyzer
     ```
 
 2. **Create a Python Virtual Environment (Recommended):**
